@@ -1,0 +1,2 @@
+The Nike Shoes Website Clone project aims to recreate the design and functionality of the official Nike website focusing specifically on showcasing Nike shoes. The project will utilize HTML, CSS, and possibly AJAX libraries to create a visually appealing and interactive website that mimics the features and layout of the original Nike website. By cloning the Nike website, users will be able to browse through various shoe collections, view detailed product information, and even make purchases if integrated.
+
